@@ -1,0 +1,8 @@
+function mechamede() { <---- DECLARA FUNÇÃO
+    console.log("Oi linda"); <---- DÁ NOME A ELA
+}
+mechamede(); <---- Executa a FUNÇÃO
+
+SE NÃO DECLARAR ELA NO CONSOLE.LOG E NÃO CHAMAR, 
+ELA FICA COMO EXISTISSE MAS NÃO FOI IDENTIFICADA
+NO CÓDIGO. 

@@ -1,0 +1,36 @@
+
+ JAVASCRIPT_________________________
+
+DICAS:
+ 
+É sempre bom terminar o código com ;
+tem sistemas que identificam tipo o fechamento do código com ;
+
+Para declarar as variáveis Var, Let e Const e aparecer no terminal é necessário declarar com console.log() para aparecer 
+
+Na variável Var e Let conseguimos mudar o valor dessa variável 
+
+ex: 
+
+var myName = 'GHABI"
+console.log(myname);
+
+myName = 'jubjubão"
+console.log(myname);
+
+
+Let meupriemironome = 'MEU PRIMEIRO NOME É GHABI"
+console.log(myname);
+
+meuprimeironome = 'MEU NOME É BIBI';
+console.log(meuprimeironome)
+
+Na varaiável Const isso não é possível, e não pode declarar ele vazio, const não reatribuí valor, tem que ter valor e não pode ser mudado
+
+const meusobrenome = "Luminato"
+console.log(meusobrenome)
+
+const constcomvalor="valor de const"
+console.log(constcomvalor)
+
+

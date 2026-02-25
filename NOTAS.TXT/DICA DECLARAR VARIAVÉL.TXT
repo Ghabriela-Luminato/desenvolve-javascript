@@ -1,0 +1,6 @@
+-----> NÃO ESQUECER <-----
+Para o código rodar seja em qualquer uma
+Const
+Let
+Var 
+sempre chamar o consolet.log (nomedeclaradonavariavel)

@@ -1,0 +1,3 @@
+node index.js
+// comentario de 1 linha
+/* comentario de bloco ( começo e fim de bloco)

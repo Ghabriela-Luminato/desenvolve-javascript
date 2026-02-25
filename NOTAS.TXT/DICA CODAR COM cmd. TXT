@@ -1,0 +1,15 @@
+Para codar com NODE dentro do cmd, primeiro entrar em PROMPOT DE COMANDO 
+(se chamar o NODE antes até mesmo para ver a versão
+ou se ele está rodando tera que sair e chamar o prompt de novo se não
+não vai dar), em seguida digitar o CD --> COMANDO
+com o nome da pasta e os arquivos.
+
+no caso atual : 
+CD pasta-node\aula1
+
+em seguida: 
+node index.js
+
+OBSERVAÇÃO: 
+Dentro da pasta aula, antes de executar no cmd
+terá que existir o arquivo index.js, se não o prompot não funciona. 
